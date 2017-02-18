@@ -1,0 +1,21 @@
+{
+  "checkout":{
+    "email": "sample@gmail.com",
+    "first_name": "Sam",
+    "last_name": "Ple",
+    "address": "10 Sample Road",
+    "city": "Sample",
+    "country": "SA",
+    "province": "CA",
+    "zip": "95113",
+    "phone": "14082320222"
+  },
+  "cc": {
+    "month": 12,
+    "name": "Sam Ple",
+    "number": "1111 1111 1111 1111",
+    "verification_value": "111",
+    "year": 2020
+  }
+}
+
